@@ -1,5 +1,7 @@
 {
   "name": "AppBeer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
